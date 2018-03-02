@@ -54,7 +54,7 @@ users.each do |user|
     tech_team_size: rand(10..25),
     website: Faker::Internet.url,
     twitter: Faker::Internet.url,
-    logo: Rails.root.join("public/logos", images.sample).open,
+    logo: Rails.root.join("public","logos", images.sample).open,
     published: true,
     user_id: user.id
   )
