@@ -28,8 +28,8 @@ Open on localhost:3000
 ## Technologies used
 - Back-end: Ruby on Rails
 - Front-end: Bootstrap, Javascript, jQuery, HTML5, CSS, Sass
-- Database: Postgres, Active Record
-- Other technologies: News API, Full Calendar
+- Database: PostgreSQL, Active Record
+- Other technologies: Google Maps API, News API, Full Calendar
 
 ## Team Members
 * Jack
