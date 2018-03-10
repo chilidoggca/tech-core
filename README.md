@@ -2,15 +2,29 @@
 
 ### Find - Learn - Connect - Share
 
-![alt text](https://github.com/Shaun-Schwartz/tech-core/blob/integration/app/assets/images/techcore-logo.png "techCore")
+![alt text](/app/assets/images/techcore-logo.png "techCore")
 
 See the deployed project here: https://vantechcore.herokuapp.com/
 
+## Preamble
 Given the task of creating a Meetup clone exclusively for tech companies, this project ('techCore') is a collaborative effort between six junior full stack developers. With an initial timeline of two days, our focus was to implement critical features before those less important. We learned valuable skills including project planning, git workflow, code review, debugging and team communication.
 
-Project TechCore allows companies to create an organization page, which they can use to advertise their events. Visitors to the site can see a list of all published companies page, and perform different search methods to identify companies that most interest them. All organization events are centralized on a calendar and events listing page. The app also features a news page, pulling tech stories from various sources through an API.
+## Features
+- Project TechCore allows companies to create an organization page, which they can use to advertise their events.
+- Visitors to the site can see a list of all published companies page, and perform different search methods to identify companies that most interest them.
+- All organization events are centralized on a calendar and events listing page.
+- The app also features a news page, pulling tech stories from various sources through an API.
+- Admins moderate organizations and users through an admin panel. Instructions to test the app as an admin are in the seed file.
 
-Admins moderate organizations and users through an admin panel. Instructions to test the app as an admin are in the seed file.
+## Screenshots
+![TechCore App Screen Capture Home](/public/screenshot-1.jpg)
+Home Page which indexes organizations and displays them on Google Map.
+
+![TechCore App Screen Capture Events](/public/screenshot-3.jpg)
+Events Page which indexes and displays upcoming events on a calendar.
+
+![TechCore App Screen Capture News](/public/screenshot-5.jpg)
+New Page which pulls tech stories from various external sources.
 
 ## Setup
 ```
