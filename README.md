@@ -55,5 +55,5 @@ Open on localhost:3000
 
 ## Personal Reflection
 * I am very proud of the work we are able to accomplish in such a short time frame. There were many features that we wanted to implement, but we knew we needed to build the most crucial features first. We sat down to plan our Entity Relationship Diagram first, and after running `rails scaffold` for our models we already had a working application within a few hours.
-* This was my first group project and I learned a lot about git workflow and code review. It made me a stronger coder, sharing my code with others and working on top of other members' codes.
-* There were instances where we had disagreements about the project, and I learned a lot about communicating and handling my own emotional response in a team setting. I continue to reflect on ways that I can better mutually share ideas with others in a respectful and synergistic way.
+* This was my first group coding project and I learned a lot about git workflow and code review. It made me a stronger coder, sharing my code with others and working on top of other members' codes.
+* There were instances where we had disagreements about the project, and I learned a lot about communicating and handling my own emotional response in a team setting. I continue to reflect on ways that my team and I can better share ideas with each other in a respectful and synergistic way.
